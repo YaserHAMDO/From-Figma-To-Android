@@ -3,6 +3,9 @@
 
 | Figma | XML & Jetpack Compose |
 |-------|------------------------|
+| <p align="center"><img src="https://github.com/user-attachments/assets/767dd982-3c56-4c6b-aa73-e841114c940b" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/a9794a8a-b5dc-4a1f-aa78-3937a3f14a85" height="500"/></p> |
+| <p align="center"><img src="https://github.com/user-attachments/assets/a26c6b03-6a6b-4923-8543-33e2f48c380e" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/ff71fa4a-aa7a-4cf4-a4a2-641b6a36d264" height="500"/></p> |
+| <p align="center"><img src="https://github.com/user-attachments/assets/34288f2a-b1f1-4971-b976-14e150e9b46b" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/24a8721b-978a-405a-8f10-135a9fddba20" height="500"/></p> |
 | <p align="center"><img src="https://github.com/user-attachments/assets/9aa23d8b-9933-4939-bd77-4d595906a1b2" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/404d18a0-8cb8-47aa-b2ab-98fa8b8d67c4" height="500"/></p> |
 | <p align="center"><img src="https://github.com/user-attachments/assets/a5afca74-f223-4893-86a4-18fae70bf145" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/e627d373-a050-4974-a546-e65fcb96fe65" height="500"/></p> |
 | <p align="center"><img src="https://github.com/user-attachments/assets/a9bec890-08c2-41fe-838c-4f474f52b4a5" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/536e207e-ec01-4181-ab20-8949bc38ed26" height="500"/></p> |
@@ -20,10 +23,7 @@
 | <p align="center"><img src="https://github.com/user-attachments/assets/60f7f4e6-a51f-4087-8a35-0622a2c26b92" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/a896d4d8-9cbf-4c00-ae3c-42bf07c13f6d" height="500"/></p> |
 | <p align="center"><img src="https://github.com/user-attachments/assets/9f006072-e2c7-400e-9862-def50d14a05b" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/d0dd160d-ffee-4937-b338-41c1b75221ec" height="500"/></p> |
 | <p align="center"><img src="https://github.com/user-attachments/assets/01c70a72-1ee4-4263-a6be-05f135d9fb20" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/99e80602-4991-404d-869b-ed370d07e85f" height="500"/></p> |
-| <p align="center"><img src="https://github.com/user-attachments/assets/3f897bed-0cb2-40dd-a3e2-c84eab4ddfdc" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxx" height="500"/></p> |
-| <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxx" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxx" height="500"/></p> |
-| <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxx" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxx" height="500"/></p> |
-| <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxx" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxx" height="500"/></p> |
-| <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxx" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxx" height="500"/></p> |
-| <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxx" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxx" height="500"/></p> |
+| <p align="center"><img src="https://github.com/user-attachments/assets/717204e9-d433-4fa7-a2d3-1e754e8912d9" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/d99b7269-20c3-4cee-8985-c7dfdd5c4bce" height="500"/></p> |
 
+| <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxx" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxx" height="500"/></p> |
+| <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxx" height="500"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/xxxxxxxxxxxxxxxx" height="500"/></p> |

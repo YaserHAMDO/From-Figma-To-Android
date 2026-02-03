@@ -1,5 +1,6 @@
-# From-Figma-To-Android
+# Figma To Android UI
 
+This repository highlights my ability to convert professional Figma designs (left column) into clean, modern, and responsive native Android UI implementations (right column) using XML and Jetpack Compose.
 
 | Figma | XML & Jetpack Compose |
 |-------|------------------------|
